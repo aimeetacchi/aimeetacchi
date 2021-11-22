@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋  👩‍💻  I'm Aimee, Front End Developer</h1>
 <h3 align="center">Living in England, United Kingdom</h3>
 <p align="center">
-<img src="https://github.com/aimeetacchi/aimeetacchi-gatsby-v1/blob/master/src/data/images/aimee007.jpg" width="200" height="200">
+<img src="https://github.com/aimeetacchi/aimeetacchi-gatsby-v1/blob/master/src/data/images/aimee001.jpg" width="200" height="200">
 </p>
 <p align="center">A passionate self-taught Front-End Web Developer with 5 years experience and crazy cat girl. 🐈‍ I focus primarily on writing clean, elegant and efficient code.</p>
 <p align="center">I have skills in HTML, CSS/SCSS, Javascript, React, Gatsby, Wordpress. 💻 💙 💜
