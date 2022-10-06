@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/aimeetacchi/aimeetacchi-gatsby-v1/blob/master/src/data/images/aimee001.jpg" width="200" height="200">
 </p>
-<p align="center">A passionate self-taught Front-End Web Developer with 5 years experience and crazy cat girl. 🐈‍ I focus primarily on writing clean, elegant and efficient code.</p>
+<p align="center">A passionate self-taught Front-End Web Developer with 6 years experience and crazy cat girl. 🐈‍ I focus primarily on writing clean, elegant and efficient code.</p>
 <p align="center">I have skills in HTML, CSS/SCSS, Javascript, React, Gatsby, Wordpress. 💻 💙 💜
 <p align="center"> You can visit my website at - <a href="https://aimeetacchi.dev">  👩‍💻  aimeetacchi.dev   👩‍💻   </a>
 
