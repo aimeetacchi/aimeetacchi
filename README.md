@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋  👩‍💻  I'm Aimee, Front End Developer</h1>
-<h3 align="center">Living in England, United Kingdom</h3>
+<h3 align="center">Living in Milton Keynes, England, United Kingdom</h3>
 <p align="center">
 <img src="https://github.com/aimeetacchi/aimeetacchi-gatsby-v1/blob/master/src/data/images/aimee001.jpg" width="200" height="200">
 </p>
