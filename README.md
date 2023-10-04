@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/aimeetacchi/aimeetacchi-gatsby-v1/blob/master/src/data/images/aimee001.jpg" width="200" height="200">
 </p>
-<p align="center">A passionate self-taught React Developer with 7 years experience and crazy cat girl. 🐈‍ I focus primarily on writing clean, elegant and efficient code.</p>
+<p align="center">A passionate self-taught React Developer/Front End Developer with 7 years experience and crazy cat girl. 🐈‍ I focus primarily on writing clean, elegant and efficient code.</p>
 <p align="center">I have skills in HTML, CSS/SCSS, Javascript, React, NextJS, Redux, AWS, GraphQL, Amplify, Typescript, Styled Components, Material UI, Tailwind. 💻 💙 💜
 <p align="center"> You can visit my website at - <a href="https://aimeetacchi.dev">  👩‍💻  aimeetacchi.dev   👩‍💻   </a>
 
