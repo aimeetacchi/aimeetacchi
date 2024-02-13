@@ -10,13 +10,13 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
+<p style="display:flex; justify-content: center;" align="center">
 <a href="https://aimeetacchi.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="aimee tacchi front end developer" height="30" width="40" /></a>
 <a href="https://twitter.com/aimeetacchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aimeetacchi twitter" height="30" width="40" /></a>
  <a href="https://codepen.io/aimeetacchi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aimeetacchi codepen" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/aimeetacchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aimee Tacchi" height="30" width="40" /></a>
 
-<a href="https://app.daily.dev/aimeetacchi"><img src="https://api.daily.dev/devcards/dd77b7b8882c418ca6e2476a57dc2f52.png?r=x6w" width="400" alt="Aimee's Dev Card"/></a>
+<a style="display: block; margin: 0 auto; text-align: center;" href="https://app.daily.dev/aimeetacchi"><img src="https://api.daily.dev/devcards/dd77b7b8882c418ca6e2476a57dc2f52.png?r=x6w" target="_blank" width="400px" alt="Aimee's Dev Card"/></a>
 </p>
 
 <!--
