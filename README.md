@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/aimeetacchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aimee Tacchi" height="30" width="40" /></a>
 
 </p>
-
+<a href="https://app.daily.dev/aimeetacchi"><img src="https://api.daily.dev/devcards/dd77b7b8882c418ca6e2476a57dc2f52.png?r=x6w" width="400" alt="Aimee's Dev Card"/></a>
 
 <!--
 **aimeetacchi/aimeetacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
