@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/aimeetacchi/aimeetacchi-gatsby-v1/blob/master/src/data/images/aimee001.jpg" width="200" height="200">
 </p>
-<p align="center">A passionate self-taught React Developer/Front End Developer with 7 years experience and crazy cat girl. 🐈‍ I focus primarily on writing clean, elegant and efficient code.</p>
+<p align="center">A passionate self-taught React Developer/Front End Developer with 8 years of experience and a crazy cat girl. 🐈‍ I focus primarily on writing clean, elegant, and efficient code.</p>
 <p align="center">I have skills in HTML, CSS/SCSS, Javascript, React, NextJS, Redux, AWS, GraphQL, Amplify, Typescript, Styled Components, Material UI, Tailwind. 💻 💙 💜
 <p align="center"> You can visit my website at - <a href="https://aimeetacchi.dev">  👩‍💻  aimeetacchi.dev   👩‍💻   </a>
 
@@ -16,7 +16,7 @@
  <a href="https://codepen.io/aimeetacchi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aimeetacchi codepen" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/aimeetacchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aimee Tacchi" height="30" width="40" /></a>
 
-<a style="display: block; margin: 0 auto; text-align: center;" href="https://app.daily.dev/aimeetacchi"><img src="https://api.daily.dev/devcards/dd77b7b8882c418ca6e2476a57dc2f52.png?r=x6w" target="_blank" width="400px" alt="Aimee's Dev Card"/></a>
+<a href="https://app.daily.dev/aimeetacchi"><img style="margin: 0 auto; display: block" src="https://api.daily.dev/devcards/v2/1pQt9jQd3Rugs19Yz9f3y.png?type=wide&r=ahk" width="652" alt="Aimee's Dev Card"/></a>
 </p>
 
 <!--
