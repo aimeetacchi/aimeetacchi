@@ -16,7 +16,8 @@
  <a href="https://codepen.io/aimeetacchi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aimeetacchi codepen" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/aimeetacchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aimee Tacchi" height="30" width="40" /></a>
 
-<a href="https://app.daily.dev/aimeetacchi"><img style="margin: 0 auto; display: block" src="https://api.daily.dev/devcards/v2/1pQt9jQd3Rugs19Yz9f3y.png?type=wide&r=ahk" width="652" alt="Aimee's Dev Card"/></a>
+<a href="https://app.daily.dev/aimeetacchi">
+<img src="https://api.daily.dev/devcards/v2/1pQt9jQd3Rugs19Yz9f3y.png?type=wide&r=ahk" style="margin: 0 auto; display: block;" alt="Aimee's Dev Card"/></a>
 </p>
 
 <!--
